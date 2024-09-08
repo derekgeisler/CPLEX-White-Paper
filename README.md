@@ -8,7 +8,7 @@ Abstract
 
 geislersolutions@gmail.com
 
-     This white paper introduces Cryptoplex Pro, a revolutionary social media platform that incorporates simulated mining into its core ecosystem. The platform integrates blockchain principles, specifically a simulated proof-of-work (PoW) mining process, allowing users to engage in a dynamic social media environment while earning simulated cryptocurrency. This innovative blend of social networking and blockchain technology provides a unique, gamified user experience that combines content sharing, community building, and digital asset accumulation.
+This white paper introduces Cryptoplex Pro, a revolutionary social media platform that incorporates simulated mining into its core ecosystem. The platform integrates blockchain principles, specifically a simulated proof-of-work (PoW) mining process, allowing users to engage in a dynamic social media environment while earning simulated cryptocurrency. This innovative blend of social networking and blockchain technology provides a unique, gamified user experience that combines content sharing, community building, and digital asset accumulation.
 
 1. Introduction
 
